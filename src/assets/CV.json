@@ -1,0 +1,62 @@
+{
+    "utbildningar": [
+      {
+        "namn": "Fullstack.net",
+        "skola": "Chas Academy, Stockholm",
+        "period": "September 2024 - September 2026"
+      },
+      {
+        "namn": "Fastighetsförvaltare",
+        "skola": "Newton Yrkeshögskola, Stockholm",
+        "period": "Augusti 2020 - Januari 2023"
+      },
+      {
+        "namn": "Business Management",
+        "skola": "Western Nebraska Community College, Nebraska",
+        "period": "Augusti 2018 - Januari 2020"
+      },
+      {
+        "namn": "Samhälle/NIU",
+        "skola": "Fryshuset Gymnasium",
+        "period": "Augusti 2015 - Juli 2017"
+      },
+      {
+        "namn": "Fritidsledare utbildning",
+        "skola": "Svenska Settlement Förbundet",
+        "period": "December 2023 - December 2024"
+      }
+    ],
+    "arbetslivserfarenhet": [
+      {
+        "titel": "Verksamhetschef",
+        "företag": "Fryshuset",
+        "period": "November 2022",
+        "beskrivning": "Övergripande ansvar för att leda och organisera verksamheten för Maria ungdomsklubb."
+      },
+      {
+        "titel": "Chief Distribution Officer (CDO)",
+        "företag": "Deuce Brand Europe",
+        "period": "November 2023",
+        "beskrivning": "Optimering och ledning av e-handelslogistik och distribution inom Europa."
+      },
+      {
+        "titel": "Tillförordnad Föreståndare",
+        "företag": "Chillet",
+        "period": "Augusti 2023 - November 2024",
+        "beskrivning": "Ansvarig för drift och ledning av två fritidsgårdar."
+      },
+      {
+        "titel": "Team Leader",
+        "företag": "Lovely Days, Stockholm",
+        "period": "Augusti 2023 - Oktober 2023",
+        "beskrivning": "Planering och genomförande av lovverksamhet för ungdomar."
+      },
+      {
+        "titel": "Landslagskapten",
+        "företag": "Ungdomslandslag, Svensk Basket",
+        "period": "Januari 2015 - Januari 2017",
+        "beskrivning": "Ledde laget i europeiska mästerskap och landslagsturneringar."
+      }
+    ]
+  }
+  

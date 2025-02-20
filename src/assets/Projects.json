@@ -1,0 +1,23 @@
+{
+    "projects": [
+      {
+        "title": "Chessboard",
+        "description": "A console app to generate a customizable chessboard.",
+        "link": "https://github.com/samiharun1/ChessBoard-Sami-Harun",
+        "image": "https://cdn.pixabay.com/photo/2017/09/08/20/29/chess-2730034_1280.jpg"
+      },
+      {
+        "title": "Hotel Booking",
+        "description": "A program to manage hotel reservations and bookings.",
+        "link": "https://github.com/samiharun1/Hotelbooking",
+        "image": "https://cdn.pixabay.com/photo/2022/11/02/19/24/hotel-7565884_1280.jpg"
+      },
+      {
+        "title": "School Management System",
+        "description": "A database-driven app for school management.",
+        "link": "https://github.com/samiharun1/SamiHarun_NET24_Databaser_Indivudellprojekt_Master1",
+        "image": "https://cdn.pixabay.com/photo/2015/09/09/20/54/book-933280_1280.jpg"
+      }
+    ]
+  }
+  
